@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Kartik
 
-<!--
-**007jbks/007jbks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Information Technology student at **NIT Jalandhar** with a passion for building useful and intelligent software. I enjoy solving problems, learning new tech, and turning ideas into reality.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack & Interests
+
+- **Languages**: C++, Python, JavaScript, HTML
+- **Frontend**: React, HTML/CSS
+- **Backend & APIs**: FastAPI
+- **CS Fundamentals**: Data Structures & Algorithms, STL, OOP, Probability, Statistics, Machine Learning, Deep Learning
+
+
+---
+
+## 🛠️ Projects I'm Working On
+
+- ⚙️ **C++ Library for ML** – Implementing various ML algorithms in C++ from scratch
+
+---
+
+## 🌱 Currently Learning
+
+- 🔍 Competitive Programming 
+- 📱 React Native for App Dev
+- 🧠 Machine Learning, NLP, Deep Learning
+- ⚙️ System Design Concepts (basics)
+
+
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/kartik-sirohi-b81625325/
+- 📧 Email: kartiksirohi383@gmail.com
+- 🌐 Portfolio: https://007jbks.github.io/Portfolio/
+
+---
+
+> *"Building something cool, one commit at a time!"*
