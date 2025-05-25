@@ -8,7 +8,7 @@
 
 - **Languages**: C++, Python, JavaScript, HTML
 - **Frontend**: React, HTML/CSS
-- **Backend & APIs**: FastAPI
+- **Backend & APIs**: FastAPI, Express
 - **CS Fundamentals**: Data Structures & Algorithms, STL, OOP, Probability, Statistics, Machine Learning, Deep Learning
 
 
@@ -23,7 +23,7 @@
 ## 🌱 Currently Learning
 
 - 🔍 Competitive Programming 
-- 📱 React Native for App Dev
+- 📱 Full Stack Development
 - 🧠 Machine Learning, NLP, Deep Learning
 - ⚙️ System Design Concepts (basics)
 
