@@ -10,22 +10,17 @@
 - **Frontend**: React, HTML/CSS
 - **Backend & APIs**: FastAPI, Express
 - **CS Fundamentals**: Data Structures & Algorithms, STL, OOP, Probability, Statistics, Machine Learning, Deep Learning
-
-
----
-
-## 🛠️ Projects I'm Working On
-
-- ⚙️ **C++ Library for ML** – Implementing various ML algorithms in C++ from scratch
+- **Quantitative Finance**: ARMA, Stochastic Processes, Black Scholes, Markov Chains
 
 ---
+
 
 ## 🌱 Currently Learning
 
 - 🔍 Competitive Programming 
-- 📱 Full Stack Development
-- 🧠 Machine Learning, NLP, Deep Learning
-- ⚙️ System Design Concepts (basics)
+- 📱 Quantitative Finance
+- 🧠 NLP, Deep Learning
+- ⚙️ System Design Concepts
 
 
 
