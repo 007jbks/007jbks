@@ -27,7 +27,7 @@
 ## 📫 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/kartik-sirohi-b81625325/
-- 📧 Email: kartiksirohi383@gmail.com
+- 📧 Email: kartik.orion.dev@gmail.com
 - 🌐 Portfolio: https://007jbks.github.io/Portfolio/
 
 ---
