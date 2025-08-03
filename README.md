@@ -5,22 +5,13 @@
 ---
 
 ## 💻 Tech Stack & Interests
-
 - **Languages**: C++, Python, JavaScript, HTML
 - **Frontend**: React, HTML/CSS
 - **Backend & APIs**: FastAPI, Express
-- **CS Fundamentals**: Data Structures & Algorithms, STL, OOP, Probability, Statistics, Machine Learning, Deep Learning
-- **Quantitative Finance**: ARMA, Stochastic Processes, Black Scholes, Markov Chains
+- **CS Fundamentals**: Data Structures & Algorithms, STL, OOP, Probability, Statistics, Machine Learning, Deep Learning, Natual Language Processing, Transformers
+- **Quantitative Finance**: ARMA, Stochastic Processes, Black Scholes, Markov Chains, Time Series
 
 ---
-
-
-## 🌱 Currently Learning
-
-- 🔍 Competitive Programming 
-- 📱 Quantitative Finance
-- 🧠 NLP, Deep Learning
-- ⚙️ System Design Concepts
 
 
 
