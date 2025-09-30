@@ -1,7 +1,6 @@
 
 ### I like AI.
 
-- Email: kartik.orion.dev@gmail.com
+- Email: sirohi.kartik@proton.me
 - Portfolio: https://007jbks.github.io/Portfolio/
 
-> *"Building something cool, one commit at a time!"*
